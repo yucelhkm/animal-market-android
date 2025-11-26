@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Uygulama Temel Metinleri -->
+    <string name="app_name">Hayvan Pazarı</string>
+    <string name="app_description">Güvenilir Hayvan Alışverişi</string>
+    
+    <!-- Navigation Items -->
+    <string name="title_home">Ana Sayfa</string>
+    <string name="title_add_animal">İlan Ver</string>
+    <string name="title_profile">Profil</string>
+    
+    <!-- Ana Sayfa Metinleri -->
+    <string name="welcome_message">Hayvan Pazarı\'na Hoş Geldiniz!</string>
+    <string name="subtitle_message">Aradığınız hayvanı bulun veya ilan verin</string>
+    <string name="browse_animals">Hayvanları Görüntüle</string>
+    <string name="sell_animal">Hayvan Sat</string>
+    
+    <!-- Hayvan Türleri -->
+    <string name="animal_type_cow">Sığır</string>
+    <string name="animal_type_sheep">Koyun</string>
+    <string name="animal_type_goat">Keçi</string>
+    <string name="animal_type_chicken">Tavuk</string>
+    <string name="animal_type_horse">At</string>
+    <string name="animal_type_other">Diğer</string>
+    
+    <!-- Cinsiyet -->
+    <string name="gender_male">Erkek</string>
+    <string name="gender_female">Dişi</string>
+    
+    <!-- Durum Mesajları -->
+    <string name="loading">Yükleniyor...</string>
+    <string name="error_occurred">Bir hata oluştu</string>
+    <string name="no_internet">İnternet bağlantısı yok</string>
+    <string name="try_again">Tekrar Dene</string>
+    
+    <!-- Buton Metinleri -->
+    <string name="button_save">Kaydet</string>
+    <string name="button_cancel">İptal</string>
+    <string name="button_delete">Sil</string>
+    <string name="button_edit">Düzenle</string>
+    <string name="button_contact">İletişime Geç</string>
+    
+    <!-- Form Metinleri -->
+    <string name="hint_animal_name">Hayvan Adı</string>
+    <string name="hint_animal_type">Hayvan Türü</string>
+    <string name="hint_animal_age">Yaş</string>
+    <string name="hint_animal_price">Fiyat (TL)</string>
+    <string name="hint_animal_description">Açıklama</string>
+    <string name="hint_location">Konum</string>
+    
+    <!-- Başlıklar -->
+    <string name="title_animal_details">Hayvan Detayları</string>
+    <string name="title_my_animals">Hayvanlarım</string>
+    <string name="title_favorites">Favoriler</string>
+    <string name="title_messages">Mesajlar</string>
+    
+    <!-- Boş Durum Mesajları -->
+    <string name="empty_animals">Henüz hiç hayvan yok</string>
+    <string name="empty_favorites">Favori hayvanınız yok</string>
+    <string name="empty_messages">Henüz mesajınız yok</string>
+</resources>
